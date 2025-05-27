@@ -7,7 +7,7 @@
       "Resource": "*",
       "Condition": {
         "StringEquals": {
-          "ec2:ResourceTag/Env": "development"
+          "ec2:ResourceTag/ENV": "Development"
         }
       }
     },

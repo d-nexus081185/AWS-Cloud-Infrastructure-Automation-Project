@@ -49,10 +49,10 @@ project-root/
 ├── automate.sh              # Main bash automation script
 ├── terraform/
 │   ├── main.tf              # Terraform config for EC2
-│   ├── variables.tf         # Input variables
-│   └── outputs.tf           # Public IP outputs
+│   ├── iam.tf               # IAM user creation through the script ./automation.sh
+│  
 ├── iam/
-│   └── dev-access-policy.json # IAM JSON policy
+│   └── iam-policy.json      # IAM JSON policy
 ├── assets/
 │   └── index.html           # Downloaded website file
 └── README.md

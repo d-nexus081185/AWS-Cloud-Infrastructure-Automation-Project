@@ -56,9 +56,11 @@ AWS-Cloud-Infrastructure-Automation-Project/
 
 
 ### 2.  Make the Shell Script Executable
+```bash
 chmod +x automation.sh
 
 ### 3. Run the Script
+```bash
 ./automation.sh
 
 The script will:

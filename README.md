@@ -91,11 +91,6 @@ EC2 Access Policy:  ec2:* only for i-1234567890abcdef0
 
 ---
 
-## 📜 License
-
-MIT License
-
----
 
 ## 👨‍💻 Author
 
